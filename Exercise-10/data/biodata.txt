@@ -1,0 +1,6 @@
+Nama: Salma
+Umur: 18
+Alamat: Solo
+Nama: sari
+Umur: 12
+Alamat: jogja
